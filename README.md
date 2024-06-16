@@ -1,7 +1,5 @@
 ### Data Science student
 
-- Deep learning and computer vision
 - Machine learning adventurer
-- Predictive maintenance with RNNs
+- Predictive maintenance, anomaly detection, time series
 - Python, SQL, R
-- Learning app development
